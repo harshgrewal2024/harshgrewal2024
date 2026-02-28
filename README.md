@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Harsh Grewal 👋
 
-<!--
-**harshgrewal2024/harshgrewal2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Java Full Stack Developer**  
+🎓 B.Tech (CSE)  
+🚀 Software Trainee Intern  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Passionate about building real-world applications  
+- Strong interest in backend development using Spring Boot  
+- Learning full stack development by building projects  
+
+---
+
+## 🛠 Tech Stack
+- **Backend:** Java, Spring Boot
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Database:** MySQL
+- **Tools:** Git, GitHub
+
+---
+
+## 📂 Projects
+- 🔢 Calculator Web App  
+- 🖼 Image Gallery Web  
+- 🌐 Portfolio Website  
+- 🚧 Student Management System (Spring Boot) – *In Progress*
+
+---
+
+## 🎯 Currently Learning
+- Spring Boot REST APIs  
+- Backend + Frontend integration  
+- Writing clean and scalable code  
+
+---
+
+## 🤝 Connect With Me
+- 🌐 Portfolio: https://harsh139portfolio.netlify.app  
+- 💼 LinkedIn: https://linkedin.com/in/harshgrewal1309  
+
+---
+
+⭐ *Always learning. Always building.*
